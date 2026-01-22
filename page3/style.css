@@ -1,0 +1,13 @@
+body {
+  font-family: Tahoma;
+  text-align: center;
+  margin-top: 100px;
+  background: #eef2f3;
+}
+
+button {
+  background: #6f42c1;
+  color: white;
+  border: none;
+  padding: 8px 20px;
+}
